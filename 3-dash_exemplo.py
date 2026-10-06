@@ -23,4 +23,23 @@ fig = px.bar(
     barmode = 'group'
 )
 
-fig.show()
+## fig.show()
+
+#3- Criando o Dashboard
+app.layout = html.Div(
+    children=[
+        html.H1('Hello Dash'),
+        html.Div(children=
+                 '''
+                 Dash: A Web Application Framework for your data!
+
+                 '''),
+        dcc.Graph(
+            id='example-graph',
+            figure=fig
+        )
+    ]
+)
+
+if __name__ == '__main__':
+    app.run(debug=True)
