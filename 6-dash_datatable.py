@@ -8,6 +8,7 @@ df = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/gapmi
 
 #print(df)
 
+#Recurso para apresentar a sua tabulação.
 app.layout = html.Div([
     html.Div(children='Datatable com Dash'),
     dash_table.DataTable(
