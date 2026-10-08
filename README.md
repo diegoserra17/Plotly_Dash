@@ -55,25 +55,6 @@ Pequenos exemplos independentes foram utilizados para compreender a estrutura b�
 Os arquivos são organizados de acordo com cada conceito ou funcionalidade estudada, permitindo testar os recursos individualmente e acompanhar a evolução do aprendizado. Estão enumerados de 1 a 7.
 
 
-
-▶️ Executando os exemplos
-
-Clone o repositório:
-
-git clone https://github.com/diegoserra17/SEU-REPOSITORIO.git
-
-Acesse a pasta:
-
-cd SEU-REPOSITORIO
-
-Execute um dos exemplos:
-
-python nome_do_arquivo.py
-
-Por padrão, o Dash disponibiliza a aplicação localmente em:
-
-http://127.0.0.1:8050/
-
 🎯 Objetivo
 
 Este projeto faz parte do um índice para aprendizado e experimentação com desenvolvimento em Python, visualização de dados e construção de aplicações interativas.
