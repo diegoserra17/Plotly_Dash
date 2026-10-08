@@ -73,14 +73,9 @@ python nome_do_arquivo.py
 Por padrão, o Dash disponibiliza a aplicação localmente em:
 
 http://127.0.0.1:8050/
+
 🎯 Objetivo
 
 Este projeto faz parte do um índice para aprendizado e experimentação com desenvolvimento em Python, visualização de dados e construção de aplicações interativas.
 
 A ideia é compreender como diferentes componentes podem ser combinados para transformar dados em interfaces visuais, interativas e orientadas à análise.
-
-👨‍💻 Diego Serra
-
-Business Analytics • Data Governance • LGPD & IA • Gestão Financeira • SQL & Data Science
-
-Explorando a interseção entre tecnologia, dados e negócios para transformar informações em soluções práticas e decisões melhores.
