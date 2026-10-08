@@ -1,4 +1,4 @@
-📊 Testes e Experimentos com Plotly Dash
+## Testes e Experimentos com Plotly Dash
 
 Este repositório reúne pequenos testes, exemplos e experimentos práticos com o Plotly Dash, realizados durante meus estudos e desenvolvimento de aplicações interativas para análise e visualização de dados.
 
@@ -52,19 +52,9 @@ Pequenos exemplos independentes foram utilizados para compreender a estrutura b�
 
 📁 Estrutura do projeto
 
-Os arquivos são organizados de acordo com cada conceito ou funcionalidade estudada, permitindo testar os recursos individualmente e acompanhar a evolução do aprendizado.
+Os arquivos são organizados de acordo com cada conceito ou funcionalidade estudada, permitindo testar os recursos individualmente e acompanhar a evolução do aprendizado. Estão enumerados de 1 a 7.
 
-MiniProjetoDash/
-│
-├── exemplos/
-├── html/
-├── css/
-├── callback/
-├── datatable/
-├── bar/
-└── README.md
 
-A estrutura pode evoluir conforme novos recursos do Plotly Dash forem incorporados ao projeto.
 
 ▶️ Executando os exemplos
 
